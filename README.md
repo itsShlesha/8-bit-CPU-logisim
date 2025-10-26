@@ -1,7 +1,5 @@
 # 🧠 8-Bit CPU Design & Simulation in Logisim Evolution  
-**Course:** Digital Electronics (25BCE516)  
 **Author:** Shlesha Modi  
-**Institution:** Nirma University  
 **Tool:** Logisim Evolution  
 
 ---
